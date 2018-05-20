@@ -10,7 +10,7 @@ class AnswerBlock extends React.Component {
     }
 
     handleClick () {
-        console.log('Success!')
+        //axios.get()
     }
     render () {
         return (

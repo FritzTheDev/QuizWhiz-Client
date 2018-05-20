@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1 className="app-title">Ostrobogulous</h1>
-        <Question q = 'Fritz?'/>
+        <Question q = 'Is Fritz the greatest?'/>
         <AnswerBlock A1='Yes' A2='Definitely' A3='Absolutely' A4='Well Duh!' />
       </div>
     );
